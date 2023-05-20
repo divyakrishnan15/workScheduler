@@ -22,6 +22,8 @@ https://divyakrishnan15.github.io/quiz_app/
 
 ## Mock demo:
 
-### Time events background as per past,present and future.
+### Current date display on top of scheduler.
+![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/620b9f80-2ae6-4dc3-8e3b-b2d23b661524)
 
-### Events saved in local storage
+### Events saved in local storage & Time events background as per past,present and future
+![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/7ac37c1b-eaa4-4dbe-9958-649d185694b9)
