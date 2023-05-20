@@ -18,6 +18,7 @@
 
 
 ## Deployed site:
+https://divyakrishnan15.github.io/workScheduler/
 
 ## Mock demo:
 
