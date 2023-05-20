@@ -92,43 +92,27 @@ $(function daySchedulerMain() {
 
       switch (LS_hour) {
         case "9AM":
-                // console.log("hi - 9AM----");
-                // console.log("9am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "10AM":
-                // console.log("hi --10AM---");
-                // console.log("10am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "11AM":
-                // console.log("hi --11AM---");
-                // console.log("11am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "12PM":
-                // console.log("hi --12PM---");
-                // console.log("12am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "1PM":
-                // console.log("hi --1PM---");
-                // console.log("1pm text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "2PM":
-                // console.log("hi --2PM---");
-                // console.log("10am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "3PM":
-                // console.log("hi --3PM---");
-                // console.log("10am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "4PM":
-                // console.log("hi --4PM---");
-                // console.log("10am text = ",LS_text)
                 $(`[row-id=${LS_hour}]`).html(LS_text)
                 break;
         case "5PM":
