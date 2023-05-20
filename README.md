@@ -23,10 +23,11 @@ https://divyakrishnan15.github.io/workScheduler/
 ## Mock demo:
 
 ### Current date display on top of scheduler.
-![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/620b9f80-2ae6-4dc3-8e3b-b2d23b661524)
+![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/f17009ab-c4c7-4d37-80fc-2a1d07cb681e)
 
-### Events saved in local storage & Time events background as per past,present and future
-![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/7ac37c1b-eaa4-4dbe-9958-649d185694b9)
+### Events saved in local storage & Time events background as per past,present and future & multi line persist
+![WORKSCHED multi](https://github.com/divyakrishnan15/workScheduler/assets/40469923/0b10ea55-192d-49d2-b293-5f000e46627a)
 
-### multi line persist
-![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/4182cb5b-218e-4297-9243-4f5d34591130)
+### time past present future
+![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/6b38f194-4de6-44c1-89e3-73630e093b40)
+
