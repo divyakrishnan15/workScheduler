@@ -18,7 +18,6 @@
 
 
 ## Deployed site:
-https://divyakrishnan15.github.io/quiz_app/
 
 ## Mock demo:
 
@@ -30,4 +29,3 @@ https://divyakrishnan15.github.io/quiz_app/
 
 ### multi line persist
 ![image](https://github.com/divyakrishnan15/workScheduler/assets/40469923/4182cb5b-218e-4297-9243-4f5d34591130)
-
